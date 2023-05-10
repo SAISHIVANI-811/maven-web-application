@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>nexus repo Snapshot Nexus Repository </name>
+	      <name>nexus repo Snapshot Nexus Repository</name>
 	      <url>http://35.78.93.89:9980/shivudu/repository/nexusrepo-snapshot/</url>
 	    </snapshotRepository>
 	    
