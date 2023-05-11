@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>nexus repo Release Nexus Repository</name>
-	      <url>http://18.181.218.153:9980/shivudu/repository/nexusrepo-release/</url>
+	      <url>http://43.207.177.108:9980/shivudu/repository/nexusrepo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>nexus repo Snapshot Nexus Repository</name>
-	      <url>http://18.181.218.153:9980/shivudu/repository/nexusrepo-snapshot/</url>
+	      <url>http://43.207.177.108:9980/shivudu/repository/nexusrepo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
