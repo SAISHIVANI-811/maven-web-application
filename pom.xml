@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>nexus repo Release Nexus Repository</name>
-	      <url>http://43.207.177.108:9980/shivudu/repository/nexusrepo-release/</url>
+	      <name>shivani Release Nexus Repository</name>
+	      <url>http://44.201.59.107:9980/shivudu/repository/shivani-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>nexus repo Snapshot Nexus Repository</name>
-	      <url>http://43.207.177.108:9980/shivudu/repository/nexusrepo-snapshot/</url>
+	      <name>shivani Snapshot Nexus Repository</name>
+	      <url>http://44.201.59.107:9980/shivudu/repository/shivani-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
