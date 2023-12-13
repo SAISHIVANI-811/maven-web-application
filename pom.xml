@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>shivani Release Nexus Repository</name>
-	      <url>http://15.206.212.40:8081/repository/shivanirelease/</url>
+	      <name>shivani release Nexus Repository</name>
+	      <url>http://44.202.44.93:8081/repository/shivani-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>shivani Snapshot Nexus Repository</name>
-	      <url>http://15.206.212.40:8081/repository/shivanisnapshot/</url>
+	      <name>shivani snapshot Nexus Repository</name>
+	      <url>http://44.202.44.93:8081/repository/shivani-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
